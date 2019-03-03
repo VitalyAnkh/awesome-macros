@@ -3,5 +3,7 @@ name = "macros"
 version = "0.1.0"
 authors = ["VitalyR <vitalyankh@gmail.com>"]
 edition = "2018"
-
+license="MIT"
+description="Many useful macros"
+repository="https://github.com/VitalyAnkh/macros"
 [dependencies]
